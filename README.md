@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Text Classification Program
 
 This program uses Machine Learning algorithms to classify texts into three categories: positive, negative and neutral. The program uses a dataset containing several manually classified texts to train the classification model.
